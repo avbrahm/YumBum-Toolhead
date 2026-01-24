@@ -1,13 +1,13 @@
 # YumBum-Toolhead
 Yet Uh-nother Multifilament toolhead. Design intentions were to combine multiple nice-to-have features into one easy to maintain toolhead without a strict focus on mass reduction or balance. Physical dimensions are still smaller and lighter than a stealthburner. 
 
-![Screenshot](https://github.com/avbrahm/YumBum-Toolhead/docs/toolhead.png)
+![Screenshot](https://github.com/avbrahm/YumBum-Toolhead/tree/main/docs/toolhead.png)
 
 
-![Screenshot](https://github.com/avbrahm/YumBum-Toolhead/docs/frontview.png)
+![Screenshot](https://github.com/avbrahm/YumBum-Toolhead/tree/main/docs/frontview.png)
 
 
-![Screenshot](https://github.com/avbrahm/YumBum-Toolhead/docs/backview.png)
+![Screenshot](https://github.com/avbrahm/YumBum-Toolhead/tree/main/docs/backview.png)
 
 
 
