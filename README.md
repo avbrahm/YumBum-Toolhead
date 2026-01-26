@@ -1,5 +1,5 @@
-# YumBum-Toolhead
-Yet Uh-nother Multifilament toolhead. Design intentions were to combine multiple nice-to-have features into one easy to maintain toolhead without a strict focus on mass reduction or balance. Physical dimensions are still smaller and lighter than a stealthburner. 
+# YamHead-Toolhead
+Yet Another Multifilament toolhead. Design intentions were to combine multiple nice-to-have features into one easy to maintain toolhead without a strict focus on mass reduction or balance. Physical dimensions are still smaller and lighter than a stealthburner. 
 
 
 ### Toolhead
